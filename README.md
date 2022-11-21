@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pixel-Man360 aka Muntasir Chowdhury Mridul
-- 👀 I’m interested in Game Development and Artificial Intelligence.
-- 🌱 I’m Working as a game developer and improving myself.
+- 👀 I’m interested in Game Development and Artificial Intelligence. 
+- 🌱 Currently working as a full time game developer at Big Bang Studio Ltd.
 - 📫 How to reach me https://www.linkedin.com/in/muntasir-chowdhury-mridul/
 
 <!---
