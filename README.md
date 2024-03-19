@@ -5,7 +5,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pixel-Man360" alt="Pixel-Man360" /></a> </p>
-<img align="right" alt="Welcome" width="450" src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif">
+<img align="right" alt="Welcome" width="600" src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif">
 
 
 - 👀 I’m interested in Game Development and Artificial Intelligence. 
