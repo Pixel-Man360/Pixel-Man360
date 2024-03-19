@@ -5,7 +5,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pixel-Man360" alt="Pixel-Man360" /></a> </p>
-<img align="right" alt="Welcome" width="450" src="https://www.pinterest.com/pin/game-developer--664210645031735055/">
+<img align="right" alt="Welcome" width="450" src="https://wifflegif.com/gifs/616802-pixelart-gamedev-gif">
 
 - 👀 I’m interested in Game Development and Artificial Intelligence. 
 - 🌱 Currently working as a full-time game developer at Big Bang Studio Ltd.
