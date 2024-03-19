@@ -1,5 +1,4 @@
-
-<img align="right" alt="Welcome" width=400" height=300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UuAcEwVzdoosc6mg9oIJMg.gif">
+<img alt="Welcome" width=400" height=300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UuAcEwVzdoosc6mg9oIJMg.gif"/><img 
 
 <h1 align="center">Hi 👋, I'm Muntasir Chowdhury Mridul</h1>
 <h3 align="center">A game developer with 2 years of professional work and 4 years of total experience. </h3>
