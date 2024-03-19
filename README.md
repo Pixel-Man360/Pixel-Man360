@@ -1,4 +1,5 @@
-![image](https://github.com/Pixel-Man360/Pixel-Man360/assets/54744758/1912524a-81a8-4291-9718-0251cbe1d15c)
+<alt="Title" width=400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UuAcEwVzdoosc6mg9oIJMg.gif">
+
 <h1 align="center">Hi 👋, I'm Muntasir Chowdhury Mridul</h1>
 <h3 align="center">A game developer with 2 years of professional work and 4 years of total experience. </h3>
 
