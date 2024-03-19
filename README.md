@@ -1,4 +1,4 @@
-<img alt="Title" heigth="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UuAcEwVzdoosc6mg9oIJMg.gif" />
+<img align="center" alt="Title" width="600" heigth="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UuAcEwVzdoosc6mg9oIJMg.gif" />
 
 
 <h1 align="center">Hi 👋, I'm Muntasir Chowdhury Mridul</h1>
