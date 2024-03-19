@@ -5,7 +5,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pixel-Man360" alt="Pixel-Man360" /></a> </p>
-<img align="right" alt="Welcome" width="450" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+<img align="right" alt="Welcome" width="450" src="https://www.pinterest.com/pin/game-developer--664210645031735055/">
 
 - 👀 I’m interested in Game Development and Artificial Intelligence. 
 - 🌱 Currently working as a full-time game developer at Big Bang Studio Ltd.
@@ -16,8 +16,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>    </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixel-Man360&show_icons=true&locale=en&layout=compact" alt="Pixel-Man360" /></p>
 
