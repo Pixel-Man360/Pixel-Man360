@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muntasir Chowdhury Mridul</h1>
-<h3 align="center">A game developer with 2 years of professional work and 4 years of total experience. </h3>
+<h3 align="center">A game developer with 3 years of professional work and 5 years of overall experience. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pixel-Man360&label=Profile%20views&color=0e75b6&style=flat" alt="Pixel-Man360" /> </p>
 
