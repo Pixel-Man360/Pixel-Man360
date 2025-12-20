@@ -3,10 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Muntasir Chowdhury Mridul</h1>
 <h3 align="center">A game developer with +3 years of professional experience. </h3>
-
-<p align="left"> <img src="https://www.flaticon.com/free-icon/graphic-card_7310330?term=graphics+card&page=1&position=19&origin=search&related_id=7310330" alt="Pixel-Man360" /> </p>
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pixel-Man360" alt="Pixel-Man360" /></a> </p>
 <img align="right" alt="Welcome" width=500" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
