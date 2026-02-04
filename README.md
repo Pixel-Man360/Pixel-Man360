@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muntasir Chowdhury Mridul</h1>
-<h4 align="left"> A game developer with 3+ years of professional experience, focused on building polished, performant gameplay experiences in <b>Unity (C#)</b> and real‑time graphics and game engine developement using <b>DirectX</b> and <b>C++</b>. I enjoy turning gameplay ideas into shipped-quality features—clean architecture, responsive controls, and maintainable systems—while collaborating closely with designers and artists. </h4>
+<h4 align="left"> A game developer with 4+ years of professional experience, focused on building polished, performant gameplay experiences in <b>Unity (C#)</b> and real‑time graphics and game engine developement using <b>DirectX</b> and <b>C++</b>. I enjoy turning gameplay ideas into shipped-quality features—clean architecture, responsive controls, and maintainable systems—while collaborating closely with designers and artists. </h4>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pixel-Man360" alt="Pixel-Man360" /></a> </p>
 <img align="right" alt="Welcome" width=500" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"> -->
 
